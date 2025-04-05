@@ -18,3 +18,11 @@
   - 7-zip or PeaZip for Windows
 
 > :warning: **Warning:** Avoid spaces in installation path.
+>
+> Having spaces will break the bundled Solr server.
+
+---
+
+Next Lesson: [Introducing SAPCommerce Cloud Platform Features](..\J01U01-Introducing-SAP-Commerce-Cloud\J01U01T02-Introducing-SAPCommerce-Cloud-Platform-Features.md)
+
+Learning Journey: [Exploring the Technical Essentials of SAP Commerce Cloud](..)
