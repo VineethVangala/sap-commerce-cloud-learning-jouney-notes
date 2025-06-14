@@ -10,8 +10,8 @@ The notes are organized by topic and may include code snippets, configuration ti
 
 sap-commerce-cloud-learning-jouney-notes/<br>
 ├── [Learning Jounrey 01 - Exploring the Technical Essentials of SAP Commerce Cloud](J01-Exploring-the-Technical-Essentials-of-SAP-Commerce-Cloud) <br>
-|        ├── [Introducing SAP Commerce Cloud](J01-Exploring-the-Technical-Essentials-of-SAP-Commerce-Cloud/J01U01-Introducing-SAP-Commerce-Cloud) <br>
-|        ├── [Performing Configuration and Installation in SAP Commerce Cloud](J01-Exploring-the-Technical-Essentials-of-SAP-Commerce-Cloud/J01U02-Performing-Configuration-and-Installation-in-SAP-Commerce-Cloud) <br>
+        ├── [Introducing SAP Commerce Cloud](J01-Exploring-the-Technical-Essentials-of-SAP-Commerce-Cloud/J01U01-Introducing-SAP-Commerce-Cloud) <br>
+        ├── [Performing Configuration and Installation in SAP Commerce Cloud](J01-Exploring-the-Technical-Essentials-of-SAP-Commerce-Cloud/J01U02-Performing-Configuration-and-Installation-in-SAP-Commerce-Cloud) <br>
 
 🧠 Purpose
 Consolidate my learning and real-world experience with SAP Commerce
