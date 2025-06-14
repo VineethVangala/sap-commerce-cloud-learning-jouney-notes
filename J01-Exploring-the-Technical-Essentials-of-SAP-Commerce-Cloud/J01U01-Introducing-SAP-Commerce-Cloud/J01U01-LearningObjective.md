@@ -10,6 +10,6 @@ After completing this unit, one will be able to:
 
 ---
 
-Next Lesson: [Understanding System Requirements](..\J01U01-Introducing-SAP-Commerce-Cloud\J01U01T01-Understanding-System-Requirements.md)
+Next Lesson: [Understanding System Requirements](J01U01T01-Understanding-System-Requirements.md)
 
 Learning Journey: [Exploring the Technical Essentials of SAP Commerce Cloud](..)

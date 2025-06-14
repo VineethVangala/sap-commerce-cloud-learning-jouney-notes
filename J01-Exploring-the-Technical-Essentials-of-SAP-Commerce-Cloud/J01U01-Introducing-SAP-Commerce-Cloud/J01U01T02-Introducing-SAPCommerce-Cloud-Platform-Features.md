@@ -26,6 +26,6 @@
 
 ---
 
-Next Lesson: [Introducing SAPCommerce Cloud Platform Features](.\J01U01T03-Understanding-SAP-Commerce-Cloud-System-Architecture.md)
+Next Lesson: [Understanding SAP Commerce Cloud System Architecture](./J01U01T03-Understanding-SAP-Commerce-Cloud-System-Architecture.md)
 
 Learning Journey: [Exploring the Technical Essentials of SAP Commerce Cloud](..)

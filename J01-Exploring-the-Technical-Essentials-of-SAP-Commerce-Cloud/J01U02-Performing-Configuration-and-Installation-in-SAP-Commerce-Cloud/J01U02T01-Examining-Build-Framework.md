@@ -53,7 +53,6 @@
 
 ---
 
-Next Lesson: [Exploring Extensions in SAP Commerce Cloud
-](..\J01U02-Performing-Configuration-and-Installation-in-SAP-Commerce-Cloud\J01U02T02-Exploring-Extensions-in-SAP-Commerce-Cloud.md)
+Next Lesson: [Exploring Extensions in SAP Commerce Cloud](J01U02T02-Exploring-Extensions-in-SAP-Commerce-Cloud.md)
 
 Learning Journey: [Exploring the Technical Essentials of SAP Commerce Cloud](..)

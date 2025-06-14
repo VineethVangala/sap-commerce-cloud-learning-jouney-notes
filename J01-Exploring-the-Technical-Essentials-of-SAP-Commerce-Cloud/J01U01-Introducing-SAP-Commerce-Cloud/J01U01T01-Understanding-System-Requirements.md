@@ -23,6 +23,6 @@
 
 ---
 
-Next Lesson: [Introducing SAPCommerce Cloud Platform Features](.\J01U01T02-Introducing-SAPCommerce-Cloud-Platform-Features.md)
+Next Lesson: [Introducing SAPCommerce Cloud Platform Features](J01U01T02-Introducing-SAPCommerce-Cloud-Platform-Features.md)
 
 Learning Journey: [Exploring the Technical Essentials of SAP Commerce Cloud](..)
