@@ -68,11 +68,11 @@
 
     ```xml
     <hybrisconfig>
-    <extensions>
-    ...
-    ...
-    <extension name="training"/>
-    </extensions>
+      <extensions>
+        ...
+        ...
+        <extension name="training"/>
+      </extensions>
     </hybrisconfig>
     ```
 
