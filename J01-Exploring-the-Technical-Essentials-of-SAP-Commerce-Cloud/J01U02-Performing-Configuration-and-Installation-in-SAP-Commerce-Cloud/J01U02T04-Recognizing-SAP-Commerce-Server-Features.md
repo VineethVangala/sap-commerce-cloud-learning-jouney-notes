@@ -18,6 +18,6 @@
 
 ---
 
-Next Lesson: [Understanding the SAP Commerce Administration Console](J01U02T05-Understanding-the-SAP-Commerce-Administration-Console.md)
+Next Lesson: [Understanding the SAP Commerce Administration Console](J01U02T05-Understanding-HAC.md)
 
 Learning Journey: [Exploring the Technical Essentials of SAP Commerce Cloud](..)
