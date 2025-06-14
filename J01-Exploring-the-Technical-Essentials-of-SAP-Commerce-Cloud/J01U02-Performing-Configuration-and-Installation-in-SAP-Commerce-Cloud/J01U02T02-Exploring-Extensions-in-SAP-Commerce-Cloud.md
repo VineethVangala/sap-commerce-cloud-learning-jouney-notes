@@ -50,10 +50,6 @@
   - yhacext adds custom functionality to HAC.
 
 - To create a single extension, we need to invoke **ant extgen**.
-- After an extension is generated,
-  - we should reference any extensions it requires in its **extensioninfo.xml**.
-  - we should add the extension to **config/localextensions.xml**.
-  - invoke ant all to build changes.
 
 ```console
 > cd hybris/bin/platform
@@ -63,10 +59,30 @@
   > select extension name = training
   > select package name = org.training
 #Build Successful.
-#Add extension to localextensions.xml
-> ant all
-> hybrisserver.bat
 ```
+
+- After an extension is generated,
+
+  - we should reference any extensions it requires in its **extensioninfo.xml**.
+  - we should add the extension to **config/localextensions.xml**.
+
+    ```xml
+    <hybrisconfig>
+    <extensions>
+    ...
+    ...
+    <extension name="training"/>
+    </extensions>
+    </hybrisconfig>
+    ```
+
+  - invoke ant all to build changes.
+    ```console
+    #Triggering platform build in same console where ant extgen was run
+    #cd hybris/bin/platform
+    > ant all
+    > hybrisserver.bat
+    ```
 
 ---
 
