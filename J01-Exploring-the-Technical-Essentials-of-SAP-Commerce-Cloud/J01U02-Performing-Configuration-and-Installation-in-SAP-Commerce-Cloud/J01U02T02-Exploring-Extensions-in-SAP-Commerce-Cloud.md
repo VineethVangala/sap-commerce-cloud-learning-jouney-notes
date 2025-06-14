@@ -118,6 +118,6 @@ Refer: [About Extensions](https://help.sap.com/docs/SAP_COMMERCE/b490bb4e85bc42a
 
 ---
 
-Next Lesson: [Examining the Build Framework](..\J01U02-Performing-Configuration-and-Installation-in-SAP-Commerce-Cloud\J01U02T01-Examining-Build-Framework.md)
+Next Lesson: [Configuring Properties Files](J01U02T03-Configuring-Properties-Files.md)
 
 Learning Journey: [Exploring the Technical Essentials of SAP Commerce Cloud](..)
