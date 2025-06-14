@@ -10,10 +10,10 @@
 - These layers include (top to bottom):
   | Layer | Components |
   | ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-  | Frontend | <table border="1px solid black;"><tr><td>Web<br>(Composable Sorefront)</td><td>(Touch Point)<br> RESTful Webservices</td><td>Backoffice Framework<br> (Administration, Customer Support, Adaptvie Search, Order Fulfilment, Product, ...)</td><td>SmartEdit</td></tr></table> |
+  | Frontend | <table border="1px solid black;"><tr><td>Web<br>(Composable Sorefront)</td><td>(Touch Point)<br> RESTful Webservices</td><td>Backoffice Framework<br> (Administration, Customer Support,<br> Adaptive Search, Order Fulfilment, Product, ...)</td><td>SmartEdit</td></tr></table> |
   | APIs | <table border="1px solid black;"><tr><td>ServiceLayer API</td><td>WebService API</td><td>Odata Integration APIs</td></tr></table> |
   | Extensions | <table border="1px solid black;"><tr><td>Cart</td><td>Promotion</td><td>Workflow</td><td>Customer Support</td><td>Pricing</td><td>CMS</td><td>Base Commerce</td><td>...</td></tr></table> |
-  | Platform | <table border="1px solid black;"><tr><td>Business Services</td><td>Infrastructure services</td><td> System services</td></tr> <tr><td colspan="3">Core Persistence Framework</td></tr> </table> |
+  | Platform | <table border="1px solid black;"><tr><td>Business Services</td><td>Infrastructure services</td><td> System services</td></tr> <tr><td colspan="3" style="text-align:center">Core Persistence Framework</td></tr> </table> |
   | Application Server | <table border="1px solid black;"><tr><td>Apache Tomcat</td></tr> </table> |
   | Database layer | <table border="1px solid black;"><tr><td>SQL Server</td><td>HSQL </td><td>MySQL</td><td>Oracle</td></tr> </table>|
 
