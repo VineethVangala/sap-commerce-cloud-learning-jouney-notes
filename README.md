@@ -8,7 +8,7 @@ This repository contains structured notes, tips, and references that I've compil
 📂 Repository Structure
 The notes are organized by topic and may include code snippets, configuration tips, and conceptual overviews.
 
-sap-commerce-cloud-learning-jouney-notes/
+sap-commerce-cloud-learning-jouney-notes/<br>
 ├── [Learning Jounrey 01 - Exploring the Technical Essentials of SAP Commerce Cloud](J01-Exploring-the-Technical-Essentials-of-SAP-Commerce-Cloud) <br>
     ├── [Introducing SAP Commerce Cloud](J01-Exploring-the-Technical-Essentials-of-SAP-Commerce-Cloud/J01U01-Introducing-SAP-Commerce-Cloud) <br>
     ├── [Performing Configuration and Installation in SAP Commerce Cloud](J01-Exploring-the-Technical-Essentials-of-SAP-Commerce-Cloud/J01U02-Performing-Configuration-and-Installation-in-SAP-Commerce-Cloud) <br>
