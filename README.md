@@ -6,10 +6,11 @@ This repository contains structured notes, tips, and references that I've compil
 > ⚠️ Disclaimer: These are personal notes and may not reflect official SAP best practices or up-to-date platform changes. Use at your own discretion.
 
 📂 Repository Structure
+
 The notes are organized by topic and may include code snippets, configuration tips, and conceptual overviews.
 
 sap-commerce-cloud-learning-jouney-notes/<br>
-|-----[Learning Jounrey 01 - Exploring the Technical Essentials of SAP Commerce Cloud](J01-Exploring-the-Technical-Essentials-of-SAP-Commerce-Cloud) <br>
+|-----[Learning Journey 01 - Exploring the Technical Essentials of SAP Commerce Cloud](J01-Exploring-the-Technical-Essentials-of-SAP-Commerce-Cloud) <br>
 |-----|-----[Unit 01 - Introducing SAP Commerce Cloud](J01-Exploring-the-Technical-Essentials-of-SAP-Commerce-Cloud/J01U01-Introducing-SAP-Commerce-Cloud) <br>
 |-----|-----|-----[01 - Understanding System Requirements](J01-Exploring-the-Technical-Essentials-of-SAP-Commerce-Cloud/J01U01-Introducing-SAP-Commerce-Cloud/J01U01T01-Understanding-System-Requirements.md)<br>
 |-----|-----|-----[02 - Introducing SAP Commerce Cloud Platform Features](J01-Exploring-the-Technical-Essentials-of-SAP-Commerce-Cloud/J01U01-Introducing-SAP-Commerce-Cloud/J01U01T02-Introducing-SAPCommerce-Cloud-Platform-Features.md)<br>
@@ -24,11 +25,12 @@ sap-commerce-cloud-learning-jouney-notes/<br>
 
 
 🧠 Purpose
-Consolidate my learning and real-world experience with SAP Commerce
 
-Serve as a quick-reference for future projects
+- Consolidate my learning and real-world experience with SAP Commerce<br>
 
-Share potentially useful insights with other developers or consultants
+- Serve as a quick-reference for future projects<br>
+
+- Share potentially useful insights with other developers or consultants<br>
 
 📌 Useful Resources
 
