@@ -17,6 +17,6 @@ After completing this unit, you will be able to:
 
 ---
 
-Next Lesson: [Examining the Build Framework](..\J01U02T01-Examining-Build-Framework.md)
+Next Lesson: [Examining the Build Framework](..\J01U02-Performing-Configuration-and-Installation-in-SAP-Commerce-Cloud\J01U02T01-Examining-Build-Framework.md)
 
 Learning Journey: [Exploring the Technical Essentials of SAP Commerce Cloud](..)
