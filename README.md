@@ -8,37 +8,6 @@ This repository contains structured notes, tips, and references that I've compil
 📂 Repository Structure
 The notes are organized by topic and may include code snippets, configuration tips, and conceptual overviews.
 
-Copy
-Edit
-sap-commerce-notes/
-├── architecture/
-├── extensions/
-├── impex-scripts/
-├── backoffice-customization/
-├── cronjobs-and-workflows/
-├── integration-apis/
-├── commerce-services/
-├── troubleshooting/
-└── README.md
-You can navigate through folders to find notes relevant to a specific area of SAP Commerce.
-
-🛠 Topics Covered
-📐 System Architecture & Setup
-
-⚙️ Extensions & AddOns
-
-📥 Impex Scripting & Data Import
-
-🧩 Backoffice Customization
-
-⏱️ CronJobs & Workflows
-
-🔌 Integration with External Systems
-
-📦 Commerce Services & Customizations
-
-🐛 Common Errors & Troubleshooting
-
 🧠 Purpose
 Consolidate my learning and real-world experience with SAP Commerce
 
