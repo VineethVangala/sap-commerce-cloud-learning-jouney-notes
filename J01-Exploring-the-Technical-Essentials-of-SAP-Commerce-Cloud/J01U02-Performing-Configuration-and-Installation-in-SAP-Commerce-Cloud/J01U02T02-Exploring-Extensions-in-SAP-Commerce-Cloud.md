@@ -28,9 +28,9 @@
      - impexs,
      - type definition,
      - localozation files,
-     - **-items.xml** - this is the type definition file used to define the extension's custom data model.
-     - **-spring.xml** - this is the file used to configure the customizations's spring context
-     - **-beans.xml** - this is the file used to add data transfer object beans.
+     - **{extensionname}-items.xml** - this is the type definition file used to define the extension's custom data model.
+     - **{extensionname}-spring.xml** - this is the file used to configure the customizations's spring context
+     - **{extensionname}-beans.xml** - this is the file used to add data transfer object beans.
   5. the **testsrc** test source directory contains JUnit Java source files of unit and integration tests.
   6. **build.xml** and **buildcallbacks.xml** are used by the Apache Ant build framework by providing parameters for Platform's build file, and to implement custom build framework logic, repectively.
   7. **extensioninfo.xml** contains the extension specific configuration.
