@@ -28,7 +28,7 @@
 
 - When you call **ant**, the build framework:
 
-  - generates and complies **Model** classes
+  - generates and compiles **Model** classes
     - according to the definitions in the <b>\*-items.xml</b> files
     - in the order required by declared extension dependencies.
   - collects localization properties from respective property files (like **locales_XY.properties**)

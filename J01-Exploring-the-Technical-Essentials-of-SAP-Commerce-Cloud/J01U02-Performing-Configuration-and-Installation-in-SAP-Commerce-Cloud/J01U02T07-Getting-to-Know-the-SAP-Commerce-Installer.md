@@ -89,6 +89,6 @@ install.bat -r recipe_demo start
 
 ---
 
-Next Lesson: [Identifying Spring Features in SAP Commerce Cloud](..\J01U02-Performing-Configuration-and-Installation-in-SAP-Commerce-Cloud\J01U02T01-Examining-Build-Framework.md)
+Next Lesson: [Identifying Spring Features in SAP Commerce Cloud](J01U02T08-Identifying-Spring-Features-in-SAP-Commerce.md)
 
 Learning Journey: [Exploring the Technical Essentials of SAP Commerce Cloud](..)

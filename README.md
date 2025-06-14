@@ -22,7 +22,8 @@ sap-commerce-cloud-learning-jouney-notes/<br>
 |-----|-----|-----[04 - Recognizing SAP Commerce Server Features](J01-Exploring-the-Technical-Essentials-of-SAP-Commerce-Cloud/J01U02-Performing-Configuration-and-Installation-in-SAP-Commerce-Cloud/J01U02T04-Recognizing-SAP-Commerce-Server-Features.md)<br>
 |-----|-----|-----[05 - Understanding HAC](J01-Exploring-the-Technical-Essentials-of-SAP-Commerce-Cloud/J01U02-Performing-Configuration-and-Installation-in-SAP-Commerce-Cloud/J01U02T05-Understanding-HAC.md)<br>
 |-----|-----|-----[06 - Initializing and Updating SAP Commerce Cloud](J01-Exploring-the-Technical-Essentials-of-SAP-Commerce-Cloud/J01U02-Performing-Configuration-and-Installation-in-SAP-Commerce-Cloud/J01U02T06-Initializing-and-Updating-SAP-Commerce-Cloud.md)<br>
-
+|-----|-----|-----[07 - Getting to Know the SAP Commerce Installer](J01-Exploring-the-Technical-Essentials-of-SAP-Commerce-Cloud/J01U02-Performing-Configuration-and-Installation-in-SAP-Commerce-Cloud/J01U02T07-Getting-to-Know-the-SAP-Commerce-Installer.md)<br>
+|-----|-----|-----[08 - Identifying Spring Features in SAP Commerce Cloud](J01-Exploring-the-Technical-Essentials-of-SAP-Commerce-Cloud/J01U02-Performing-Configuration-and-Installation-in-SAP-Commerce-Cloud/J01U02T08-Identifying-Spring-Features-in-SAP-Commerce.md)<br>
 
 🧠 Purpose
 
@@ -38,8 +39,5 @@ Exploring the Technical Essentials of SAP Commerce Cloud - https://learning.sap.
 
 SAP Help Portal – SAP Commerce
 
-
 📬 Feedback & Contributions
 Since these are personal notes, contributions are not expected — but if you find a mistake or want to suggest an improvement, feel free to email me @ vineethacharyavangala@outlook.com
-
-
